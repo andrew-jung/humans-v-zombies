@@ -1,0 +1,13 @@
+﻿  Zombie.cpp
+g:\nscc - y2 s1\hvz\hvz\zombie.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\nscc - y2 s1\hvz\hvz\zombie.cpp(86): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+g:\nscc - y2 s1\hvz\hvz\source.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Organism.cpp
+  Human.cpp
+g:\nscc - y2 s1\hvz\hvz\human.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\nscc - y2 s1\hvz\hvz\human.cpp(50): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  City.cpp
+  Generating Code...
+  HvZ.vcxproj -> G:\NSCC - Y2 S1\HvZ\Debug\HvZ.exe
+  HvZ.vcxproj -> G:\NSCC - Y2 S1\HvZ\Debug\HvZ.pdb (Partial PDB)

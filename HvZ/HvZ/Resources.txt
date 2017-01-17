@@ -1,0 +1,6 @@
+// Console: http://www.cplusplus.com/forum/beginner/4234/
+// for colors: http://www.cplusplus.com/forum/beginner/5830/
+// for Timer: http://www.cplusplus.com/reference/ctime/clock/
+// 2D array based on TTT Assignment 1 but dynamic
+// References based on Conway's Game of Life (PM Project in CPP too) 
+// http://code.runnable.com/UwQvQY99xW5AAAAQ/john-conway-s-game-of-life-for-c%2B%2B-nested-for-loops-and-2-dimensional-arrays
